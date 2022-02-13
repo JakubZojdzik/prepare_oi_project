@@ -1,6 +1,10 @@
-// Jakub Żojdzik
-// XXIX Olimpiada Informatyczna
-// W programie użyto fragmentów kodów z prywatnej biblioteczki oraz ogólnodostępnej literatury
+/*
+    Imię Nazwisko
+    XXIX Olimpiada Informatyczna
+    W programie użyto fragmentów kodów z prywatnej biblioteczki oraz ogólnodostępnej literatury
+    Wykorzystano również kody z następujących stron internetowych:
+
+*/
 
 #include <bits/stdc++.h>
 using namespace std;
