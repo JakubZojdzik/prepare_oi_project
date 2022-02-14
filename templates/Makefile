@@ -1,5 +1,5 @@
 CC = g++
-CXXFLAGS = -std=c++17
+CXXFLAGS = -O3 -static -std=c++17
 RM = rm
 main: main.cpp
 	@clear
