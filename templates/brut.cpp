@@ -1,6 +1,7 @@
 /*
     Imię Nazwisko
     XXIX Olimpiada Informatyczna
+    Zadanie NAZWA_ZADANIA
     W programie użyto fragmentów kodów z prywatnej biblioteczki oraz ogólnodostępnej literatury
     Wykorzystano również kody z następujących stron internetowych:
 

@@ -28,7 +28,7 @@ Than put downloaded catalog to your oi folder. Go to the main directory, and run
   ./start.sh zad
 ```
 
-It will make zad folder in parent directory with everythink you need. Don't forget to change every NAZWA_ZADANIA to your task name in test.sh, test_from_out.sh, generate_input.cpp.
+It will make zad folder in parent directory with everythink you need. Don't forget to sign on top of main.cpp and brut.cpp.
 ## Usage/Examples
 
 You write your main code in main.cpp file. The place for brutal version is in brut.cpp. In order to run main program use:
