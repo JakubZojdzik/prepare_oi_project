@@ -6,7 +6,7 @@
 
 ## Features
 
-- Create's all cpp files you nedd
+- Create's all cpp files you need
 - Create's all files necessary for testing your program
 - All boring stuff for you
 - You don't waste your valuable time
